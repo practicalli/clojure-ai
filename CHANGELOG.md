@@ -5,6 +5,7 @@
 ### Added
 
 - project: new clojure ai tools mkdocs book
+- build(zensical): 🔧 add social cards plugin
 
 ### Changed
 
